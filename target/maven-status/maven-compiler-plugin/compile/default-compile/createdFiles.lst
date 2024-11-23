@@ -1,0 +1,12 @@
+com\edutecno\procesaconexion\ConexionBDPool.class
+com\edutecno\servlets\IniciarSesion.class
+com\edutecno\modelo\Horoscopo.class
+com\edutecno\servlets\EliminarUsuario.class
+com\edutecno\servlets\ModificarUsuario.class
+com\edutecno\servlets\BuscarUsuario.class
+com\edutecno\servlets\ConsultarHoroscopo.class
+com\edutecno\modelo\Usuario.class
+com\edutecno\servlets\CrearUsuario.class
+com\edutecno\servlets\CerrarSesion.class
+com\edutecno\dao\HoroscopoDAOImp.class
+com\edutecno\dao\HoroscopoDAO.class
